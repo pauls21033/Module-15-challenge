@@ -18,8 +18,10 @@ Instructions
 The instructions for this activity are broken into two parts:
 
 Part 1: Create the Earthquake Visualization
+![image](https://user-images.githubusercontent.com/107385310/193934378-c2c1e66c-910f-4932-8406-d7ade327c524.png)
 
 Part 2: Gather and Plot More Data (Optional)
+![image](https://user-images.githubusercontent.com/107385310/193934416-c2ede93f-0909-4a70-90cc-fd5ba9df0946.png)
 
 Part 1: Create the Earthquake Visualization
 2-BasicMap
@@ -33,6 +35,7 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
 When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 4-JSON
+![image](https://user-images.githubusercontent.com/107385310/193934571-6cb7f2b5-3261-4653-a4ac-4971a27b50e8.png)
 
 Import and visualize the data by doing the following:
 
@@ -52,6 +55,7 @@ Part 2: Gather and Plot More Data (Optional)
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
 
 The following image is an example screenshot of what you should produce:
+![image](https://user-images.githubusercontent.com/107385310/193934630-1c1039e5-3238-493a-b1e4-da0cdaced0b5.png)
 
 5-Advanced
 
